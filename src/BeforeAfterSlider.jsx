@@ -4,7 +4,7 @@ import ReactCompareImage from "react-compare-image";
 const BeforeAfterSlider = () => {
   return (
     <div className="before-after-wrapper">
-      <h2 className="title">Before / After Comparison</h2>
+      <h2 className="title">Image Slider</h2>
       <div className="slider-container">
         <ReactCompareImage
           leftImage="https://plus.unsplash.com/premium_photo-1746637010097-5e79e6283d99?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwyfHx8ZW58MHx8fHx8"
